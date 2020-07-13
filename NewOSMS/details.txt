@@ -1,0 +1,14 @@
+host =localhost
+username=root
+password=' '
+port=3306
+
+
+
+important question
+mysqli_real_easacpe_string()===if anyone write on code so code will go in string PURPOSR FOR SECURITY
+TRIM FUNCYTION === REMOVE THE SPACE...
+
+mysqli_insert_id
+
+define
